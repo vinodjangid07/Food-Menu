@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Food-Menu/static/css/main.68dd37ae.css",
-    "main.js": "/Food-Menu/static/js/main.d6d001c5.js",
+    "main.css": "/Food-Menu/static/css/main.e3855988.css",
+    "main.js": "/Food-Menu/static/js/main.430dfc1e.js",
     "static/js/787.f5eaa5e2.chunk.js": "/Food-Menu/static/js/787.f5eaa5e2.chunk.js",
     "static/media/margherita-pizza.jpg": "/Food-Menu/static/media/margherita-pizza.8b96a48cb26caa0db6c1.jpg",
     "static/media/pepperoni-pizza.jpg": "/Food-Menu/static/media/pepperoni-pizza.6bd6a1ef871a77014e62.jpg",
@@ -32,12 +32,12 @@
     "static/media/logo.png": "/Food-Menu/static/media/logo.012480d4fcb82974325a.png",
     "static/media/logo-white.png": "/Food-Menu/static/media/logo-white.4909f1a1f9e7c15ccb79.png",
     "index.html": "/Food-Menu/index.html",
-    "main.68dd37ae.css.map": "/Food-Menu/static/css/main.68dd37ae.css.map",
-    "main.d6d001c5.js.map": "/Food-Menu/static/js/main.d6d001c5.js.map",
+    "main.e3855988.css.map": "/Food-Menu/static/css/main.e3855988.css.map",
+    "main.430dfc1e.js.map": "/Food-Menu/static/js/main.430dfc1e.js.map",
     "787.f5eaa5e2.chunk.js.map": "/Food-Menu/static/js/787.f5eaa5e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68dd37ae.css",
-    "static/js/main.d6d001c5.js"
+    "static/css/main.e3855988.css",
+    "static/js/main.430dfc1e.js"
   ]
 }
