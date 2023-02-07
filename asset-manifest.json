@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Food-Menu/static/css/main.68dd37ae.css",
+    "main.js": "/Food-Menu/static/js/main.d6d001c5.js",
+    "static/js/787.f5eaa5e2.chunk.js": "/Food-Menu/static/js/787.f5eaa5e2.chunk.js",
+    "static/media/margherita-pizza.jpg": "/Food-Menu/static/media/margherita-pizza.8b96a48cb26caa0db6c1.jpg",
+    "static/media/pepperoni-pizza.jpg": "/Food-Menu/static/media/pepperoni-pizza.6bd6a1ef871a77014e62.jpg",
+    "static/media/veggie-pizza.jpg": "/Food-Menu/static/media/veggie-pizza.7d4d90aa0767d2b6e232.jpg",
+    "static/media/corn-pizza.jpeg": "/Food-Menu/static/media/corn-pizza.0b824959d6366245c3d2.jpeg",
+    "static/media/samosa.jpg": "/Food-Menu/static/media/samosa.e8abf5c30847650a4f76.jpg",
+    "static/media/veggie-burger.jpg": "/Food-Menu/static/media/veggie-burger.a96ee1b838a08af297d8.jpg",
+    "static/media/mirchi-vada.jpg": "/Food-Menu/static/media/mirchi-vada.2783a87dfba0b2ebc6f9.jpg",
+    "static/media/namkeen.jpg": "/Food-Menu/static/media/namkeen.d41d20252b015afef510.jpg",
+    "static/media/dal-chawal.jpg": "/Food-Menu/static/media/dal-chawal.0c32ff12f53ab27c2938.jpg",
+    "static/media/chinese-noodles.jpg": "/Food-Menu/static/media/chinese-noodles.c83d7f146b3243069cae.jpg",
+    "static/media/chicken-burger.jpg": "/Food-Menu/static/media/chicken-burger.c7a145c937ae538f4d4e.jpg",
+    "static/media/cheese-burger.jpg": "/Food-Menu/static/media/cheese-burger.2d9731af896fbd9837a0.jpg",
+    "static/media/aalu-paratha.jpg": "/Food-Menu/static/media/aalu-paratha.426ab148caaa0f54fb90.jpg",
+    "static/media/maggi.jpg": "/Food-Menu/static/media/maggi.c5b5d7b249ecd9a21c69.jpg",
+    "static/media/dal-kachori.jpg": "/Food-Menu/static/media/dal-kachori.fddaeaa74951d49de868.jpg",
+    "static/media/pyaz-kachori.jpg": "/Food-Menu/static/media/pyaz-kachori.10155378ca1f864d38ed.jpg",
+    "static/media/chai.jpg": "/Food-Menu/static/media/chai.0619e018ec17cdbc2f47.jpg",
+    "static/media/turkeyburger.jpeg": "/Food-Menu/static/media/turkeyburger.b7e9f6795fc69bfb35db.jpeg",
+    "static/media/dal-pakodi.jpg": "/Food-Menu/static/media/dal-pakodi.d4d9ca8b6f797db08734.jpg",
+    "static/media/mooli-paratha.jpg": "/Food-Menu/static/media/mooli-paratha.57092bb22b1ec4172281.jpg",
+    "static/media/curry-chawal.jpg": "/Food-Menu/static/media/curry-chawal.5e536ef2880a130dc226.jpg",
+    "static/media/special-chai.jpg": "/Food-Menu/static/media/special-chai.b0dc0884087ce873f9c6.jpg",
+    "static/media/veg-sandwich.jpg": "/Food-Menu/static/media/veg-sandwich.38756f41c654c1a9827c.jpg",
+    "static/media/cheese-pizza.jpg": "/Food-Menu/static/media/cheese-pizza.2523ce998f7eab5792fd.jpg",
+    "static/media/chaw-mein.jpg": "/Food-Menu/static/media/chaw-mein.8fb1aeeef8668bdacc44.jpg",
+    "static/media/dal-roti.jpg": "/Food-Menu/static/media/dal-roti.2e28ccc2c6276d9349ca.jpg",
+    "static/media/logo.png": "/Food-Menu/static/media/logo.012480d4fcb82974325a.png",
+    "static/media/logo-white.png": "/Food-Menu/static/media/logo-white.4909f1a1f9e7c15ccb79.png",
+    "index.html": "/Food-Menu/index.html",
+    "main.68dd37ae.css.map": "/Food-Menu/static/css/main.68dd37ae.css.map",
+    "main.d6d001c5.js.map": "/Food-Menu/static/js/main.d6d001c5.js.map",
+    "787.f5eaa5e2.chunk.js.map": "/Food-Menu/static/js/787.f5eaa5e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68dd37ae.css",
+    "static/js/main.d6d001c5.js"
+  ]
+}
